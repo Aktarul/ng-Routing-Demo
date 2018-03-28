@@ -28,7 +28,7 @@ export class DepartmentDetailComponent implements OnInit {
 
   goPrevious() {        // method to go next department
     const previousId = this.departmentId - 1;
-    this.router.navigate(['/departments', previousId]);
+     this.router.navigate(['/departments', previousId]);
   }
   goNext() {          // method to go previous department
     const nextId = this.departmentId + 1;
@@ -37,6 +37,7 @@ export class DepartmentDetailComponent implements OnInit {
 
   gotoDepartments() {        // get back to department list
     const selectedId = this.departmentId ? this.departmentId : null;
-    this.router.navigate(['/departments', {id: selectedId}]);
+    // this.router.navigate(['/departments', {id: selectedId}]);
+    this.router.navigate(['../', {id: selectedId}], {relativeTo: this.route});    // relatively routing
   }
 }
