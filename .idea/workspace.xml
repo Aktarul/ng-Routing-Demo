@@ -61,7 +61,7 @@
       <path value="$PROJECT_DIR$/Routing-Demo/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -136,13 +136,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525194855702</updated>
+<<<<<<< HEAD
       <workItem from="1525194919653" duration="1084000" />
       <workItem from="1525774369013" duration="232000" />
+=======
+      <workItem from="1525194919653" duration="1680000" />
+>>>>>>> readme
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1337000" />
+=======
+    <option name="totallyTimeSpent" value="1680000" />
+>>>>>>> readme
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
