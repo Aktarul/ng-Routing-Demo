@@ -8,3 +8,6 @@ Routing implementation in Angular
   4. Install dependencies : `npm install --save`
   5. Run the application : `ng serve`
   6. Visit: `localhost:4200`
+
+## UI Design
+![navigation](Routing-Demo/screenshots/home.png)
