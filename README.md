@@ -1,5 +1,5 @@
 # Routing Demo
-Routing implementation in Angular
+Routing system implemented with Angular. 
 
 ## Installation
   1. Clone this repositry : `git clone https://github.com/Aktarul/ng-Routing-Demo.git`
